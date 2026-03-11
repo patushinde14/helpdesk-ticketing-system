@@ -32,7 +32,12 @@ Data Persistence: Managed 50+ manual entries to ensure the database handles sear
 
 Dashboard Preview
 <img width="1893" height="865" alt="image" src="https://github.com/user-attachments/assets/5aab46b6-bcbd-46f1-8f92-6c95b8e4c9b9" />
-
+<img width="1867" height="858" alt="image" src="https://github.com/user-attachments/assets/989118af-ab22-4e3f-8f0f-090b1cb2551f" />
+<img width="1869" height="852" alt="image" src="https://github.com/user-attachments/assets/2a2a7412-8275-403f-91c4-c1e4222d428e" />
+<img width="1804" height="845" alt="image" src="https://github.com/user-attachments/assets/35de6c60-0be2-4068-ae9e-5c2e0263403a" />
+<img width="1825" height="840" alt="image" src="https://github.com/user-attachments/assets/1a049351-c9c4-41ee-a4f9-8ad0d935e2ce" />
+<img width="1918" height="868" alt="image" src="https://github.com/user-attachments/assets/90ba7bdb-bb57-405c-95dc-3f3280040eba" />
+<img width="1893" height="863" alt="image" src="https://github.com/user-attachments/assets/05bab668-b222-4a81-ace8-2c87ac5662e4" />
 
 
 
