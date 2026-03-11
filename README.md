@@ -45,14 +45,14 @@ How to Run Locally
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/it-ticketing-system.git
+git clone https://github.com/patushinde14/it-ticketing-system.git
 Update src/main/resources/application.properties with your MySQL credentials.
 
 Run the application:
 
 Bash
 mvn spring-boot:run
-Access at: http://localhost:8080
+Access at: http://localhost:8081
 
 Why this project?
 As an aspiring IT Support Engineer, I wanted to understand the software that runs a modern Helpdesk. Building this tool from scratch helped me master:
